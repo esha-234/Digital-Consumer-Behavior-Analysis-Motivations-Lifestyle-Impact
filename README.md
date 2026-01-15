@@ -1,0 +1,1 @@
+# Digital-Consumer-Behavior-Analysis-Motivations-Lifestyle-Impact
