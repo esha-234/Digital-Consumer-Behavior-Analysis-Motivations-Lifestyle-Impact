@@ -10,20 +10,29 @@ This project analyses how social media habits evolve from casual use to high-int
 
 **METHODOLOGY**
 
-•	Demographic Reach: Conducted an end-to-end primary study involving a cross-generational sample of 127 participants (Ages 18–70) with a gender distribution of 59% Male and 41% Female.
+•	**Demographic Reach:** Conducted an end-to-end primary study involving a cross-generational sample of 127 participants (Ages 18–70) with a gender distribution of 59% Male and 41% Female.
 
-•	Data Instrumentation: Utilized a multi-section survey instrument capturing demographic profiles, usage frequency, and 18 statements of behavioural impact through a 5-point Likert scale.
+•	**Data Instrumentation:** Utilized a multi-section survey instrument capturing demographic profiles, usage frequency, and 18 statements of behavioural impact through a 5-point Likert scale.
 
-•	Ensured data integrity using Cronbach’s Alpha for internal consistency.
+•	**Analysis:**
 
-•	Weights were assigned to the response frequencies (Strongly Agree, Agree, Neither Agree nor Disagree, Disagree, and Strongly Disagree), with the highest weight 5, given to the highest frequency, and the lowest weight 1 assigned to the lowest frequency. 
+i. Ensured data integrity using Cronbach’s Alpha for internal consistency.
 
-•	Applied Exploratory Factor Analysis (EFA) to reduce complex data into three primary latent variables: Conflict, Withdrawal, and Tolerance.
+ii.Weights were assigned to the response frequencies (Strongly Agree, Agree, Neither Agree nor Disagree, Disagree, and Strongly Disagree), with the highest weight 5, given to the highest frequency, and the lowest weight 1 assigned to the lowest frequency. 
 
-•	Conducted Chi-square testing to identify statistically significant associations between behavioural factors and agreement levels.
+iii. Applied Exploratory Factor Analysis (EFA) to reduce complex data into three primary latent variables: Conflict, Withdrawal, and Tolerance.
 
-•	Calculated the Coefficient of Variation (C.V.) to assess variability in responses and determine the level of consensus among participants. Lower C.V. values indicate lower variability and greater alignment in opinion among respondents.
+iv. Conducted Chi-square testing to identify statistically significant associations between behavioural factors and agreement levels.
 
-An Interactive Power BI dashboard can be found here: https://app.powerbi.com/view?r=eyJrIjoiODUyNTQ2ZDQtODI2YS00YWYzLThmNTYtYWNjYWZiYmU0NzU4IiwidCI6IjZhODU1MDhjLWIxZDYtNDRjNy05ZjdlLTUyNWU5OWVkMWM5MCJ9
+v. Calculated the Coefficient of Variation (C.V.) to assess variability in responses and determine the level of consensus among participants. Lower C.V. values indicate lower variability and greater alignment in opinion among respondents.
 
-The questionnaire can be found here: https://drive.google.com/file/d/1OORbcjAp7hTNYi3oVZbQIB4devvqO2FO/view
+The questionnaire can be found here: [Link](https://drive.google.com/file/d/1OORbcjAp7hTNYi3oVZbQIB4devvqO2FO/view)
+
+**DASHBOARD**
+
+An Interactive Power BI dashboard can be found here: [Link](https://app.powerbi.com/view?r=eyJrIjoiODUyNTQ2ZDQtODI2YS00YWYzLThmNTYtYWNjYWZiYmU0NzU4IiwidCI6IjZhODU1MDhjLWIxZDYtNDRjNy05ZjdlLTUyNWU5OWVkMWM5MCJ9
+)
+
+**KEY INSIGHTS**
+
+
