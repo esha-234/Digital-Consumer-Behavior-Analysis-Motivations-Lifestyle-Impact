@@ -171,3 +171,24 @@ While WhatsApp and YouTube are the top platforms overall, the reason for using t
 
 •	**Gen X (45–65):** This demographic reports the lowest salience. They show the strongest disagreement with feeling an increasing urge to use social media more and more.
 
+.
+
+**RECOMMENDATIONS FOR ORGANIZATIONAL APPLICATION**
+
+•	**Business Justification:** While heavy usage increases short-term ad revenue, the Conflict data suggests a ceiling. If users associate a platform with productivity or eye strain, they may eventually undergo "digital detoxing." For a business, this means a total loss of the user. Modern tech companies (like Apple or Google) now include "Screen Time" features specifically to manage this risk and ensure a "healthier," longer-term relationship with the user. Companies should promote digital well-being of their employees.
+
+•	**The 20-20-20 Institutional Policy:** Integrate automated reminders on corporate desktops or Slack/Teams channels prompting employees to look away from screens every 20 minutes.
+
+• **Ergonomic Workshops:** The high prevalence of Eye Strain and Neck/Back Pain among the respondents suggests a need for physical interventions. Training should be provided on device posture, especially for Millennials who reported the highest rates of neck and back pain in the study.
+
+•	**Behavioural Literacy Training:** The project’s framework can be used to teach students the mechanics of how apps are designed to be addictive." Understanding the "Hook Model" can help them reclaim autonomy. 
+
+.
+
+**FUTURE WORK**
+
+•	Longitudinal Tracking: Transition from a cross-sectional to a longitudinal study that follows the same 127 participants over 12–24 months would reveal more bout their habits given how much social media trends change over time
+
+•	Hyper-Personalization: Investigate how AI-driven algorithms affect social media habits. Research could explore if hyper-personalized content makes it harder for users to break the validation-seeking loops identified in the study.
+
+•	Cross-Cultural Comparison: Replicating the study in different geographic regions to determine if the "Validation-Seeking" driver is a universal human trait or a culturally specific phenomenon influenced by local social norms.
